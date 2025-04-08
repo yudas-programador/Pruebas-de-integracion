@@ -1,2 +1,10 @@
 # Pruebas-de-integracion
 Pruebas de Integración Automáticas-14
+
+El Proyecto XYZ consiste en el diseño y ejecución de un sistema de monitoreo y pruebas automatizadas de rendimiento e integración de servicios web, con el objetivo de asegurar la calidad, estabilidad y eficiencia de las aplicaciones expuestas mediante APIs.
+El proyecto se enfoca en:
+
+Medición del rendimiento de las API y servicios a través de pruebas de carga con k6, visualizando métricas clave mediante Grafana e InfluxDB.
+Pruebas de integración automatizadas, asegurando la correcta comunicación y funcionamiento entre los distintos módulos del sistema utilizando herramientas como Postman (Newman para la automatización).
+La aplicación práctica de entornos de CI/CD donde estas pruebas se ejecutan automáticamente en cada despliegue o cambio de código.
+![image](https://github.com/user-attachments/assets/0bb5c1e1-e830-4504-bc35-5c7000c09a37)
